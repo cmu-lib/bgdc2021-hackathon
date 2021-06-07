@@ -34,8 +34,7 @@ author:
     affiliation: Institute for Computational Medicine, Johns Hopkins University 220 Hackerman Hall. 3400 N. Charles St. Baltimore, MD  21218
   - name: Annie Nadkarni
     email: anadkarn@andrew.cmu.edu
-    affiliation: Carnegie Mellon University, School of Computer Science
-    5000 Forbes Ave, Pittsburgh, PA 15213
+    affiliation: Carnegie Mellon University, School of Computer Science 5000 Forbes Ave, Pittsburgh, PA 15213
   - name: Melanie Gainey
     email: mgainey@andrew.cmu.edu
     orcid: 0000-0002-4782-9647
@@ -68,8 +67,7 @@ author:
     affiliation: Laboratory of Food Microbiology, Institute for Food, Nutrition and Health, ETH Zurich, Zurich, Switzerland 
   - name: Brian Haas
     email: bhaas@broadinstitute.org
-    affiliation: Broad Institute
-    415 Main Street, Cambridge, MA 02142 
+    affiliation: Broad Institute 415 Main Street, Cambridge, MA 02142 
   - name: Samuel Hokin
     email: shokin@ncgr.org
     orcid: 0000-0002-9746-2783

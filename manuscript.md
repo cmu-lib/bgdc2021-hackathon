@@ -46,7 +46,7 @@ author:
     affiliation: Carnegie Mellon University Libraries
     4909 Frew Street, Pittsburgh, PA, 15213
   - name: Patrick Campbell
-    email:
+    email: pcampbe2@andrew.cmu.edu
     affiliation: Carnegie Mellon University Libraries
     4909 Frew Street, Pittsburgh, PA, 15213
   - name: Olaitan I. Awe
@@ -114,7 +114,7 @@ author:
     affiliation: Baylor College of Medicine
     Houston, TX 77030
   - name: Ben Busby
-    email: 
+    email: bbusby@dnanexus.com
     orcid: 0000-0001-5267-4988
     affiliation: DNAnexus
     1975 El Camino, Mountain View, CA

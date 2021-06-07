@@ -15,11 +15,11 @@ author:
   - name: Ahmad Al Khleifat 
     email: Ahmad.al_khleifat@kcl.ac.uk	
     orcid: 0000-0002-7406-9831
-    affiliation: Institute of Psychiatry, Psychology & Neuroscience, King's College London. Maurice Wohl Clinical Neuroscience Institute 5 Cutcombe Road, Denmark Hill, London, SE5 9RX 
+    affiliation: Institute of Psychiatry, Psychology & Neuroscience, King's College London. Maurice Wohl Clinical Neuroscience Institute, 5 Cutcombe Road, Denmark Hill, London, SE5 9RX 
   - name: Jenny Leopoldina Smith
     email: jlsmith3@fredhutch.org
     orcid: 0000-0003-0402-2779
-    affiliation: Clinical Research Division, Fred Hutchinson Cancer Research Center 1100 Fairview, Ave., Seattle, WA, 98109
+    affiliation: Clinical Research Division, Fred Hutchinson Cancer Research Center, 1100 Fairview, Ave., Seattle, WA, 98109
   - name: Brandon M. Blobner
     email: bmb83@pitt.edu
     orcid: 0000-0003-0734-1492
@@ -31,17 +31,17 @@ author:
   - name: Kymberleigh Pagel
     email: kpagel1@jhu.edu 
     orcid: 0000-0001-8544-925
-    affiliation: Institute for Computational Medicine, Johns Hopkins University 220 Hackerman Hall. 3400 N. Charles St. Baltimore, MD  21218
+    affiliation: Institute for Computational Medicine, Johns Hopkins University, 220 Hackerman Hall, 3400 N. Charles St. Baltimore, MD  21218
   - name: Annie Nadkarni
     email: anadkarn@andrew.cmu.edu
-    affiliation: Carnegie Mellon University, School of Computer Science 5000 Forbes Ave, Pittsburgh, PA 15213
+    affiliation: Carnegie Mellon University, School of Computer Science, 5000 Forbes Ave, Pittsburgh, PA 15213
   - name: Melanie Gainey
     email: mgainey@andrew.cmu.edu
     orcid: 0000-0002-4782-9647
-    affiliation: Carnegie Mellon University Libraries 4909 Frew Street, Pittsburgh, PA, 15213
+    affiliation: Carnegie Mellon University Libraries, 4909 Frew Street, Pittsburgh, PA, 15213
   - name: Patrick Campbell
     email: pcampbe2@andrew.cmu.edu
-    affiliation: Carnegie Mellon University Libraries 4909 Frew Street, Pittsburgh, PA, 15213
+    affiliation: Carnegie Mellon University Libraries, 4909 Frew Street, Pittsburgh, PA, 15213
   - name: Olaitan I. Awe
     email: laitanawe@gmail.com 
     orcid: 0000-0002-4257-3611
@@ -60,7 +60,7 @@ author:
   - name: Shamika Dhuri
     email: dhurishamika@gmail.com 
     orcid: 0000-0003-3931-5694
-    affiliation: Carnegie Mellon University, Mellon College of Science 5000 Forbes Ave, Pittsburgh, PA 15213
+    affiliation: Carnegie Mellon University, Mellon College of Science, 5000 Forbes Ave, Pittsburgh, PA 15213
   - name: Virginie Grosboillot
     email: virginie.grosboillot@hest.ethz.ch
     orcid: 0000-0002-8249-7182
@@ -79,7 +79,7 @@ author:
   - name: Meghana Pagadala
     email: mpagadal@ucsd.edu
     orcid: 0000-0002-7591-6035
-    affiliation: University of California San Diego 9500 Gilman Dr, La Jolla, CA 92093
+    affiliation: University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093
   - name: Stephen Price
     email: sprice1@andrew.cmu.edu
     orcid: 0000-0001-9072-7518
@@ -87,21 +87,21 @@ author:
   - name: Adelaide Rhodes
     email: adelaide.rhodes@nih.gov
     orcid: 0000-0002-1714-1972
-    affiliation: National Center for Biotechnology Information National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+    affiliation: National Center for Biotechnology Information, National Library of Medicine, 8600 Rockville Pike, Bethesda, MD 20894
   - name: Janice Kyla Nascimento Smith
     email: janice.k.n.smith@gmail.com 
-    affiliation: Software Engineer Boston, MA, 02109
+    affiliation: Software Engineer, Boston, MA, 02109
   - name: Chaitanya Srinivasan
     email: csriniv1@andrew.cmu.edu 
     orcid: 0000-0002-1487-541X
     affiliation: Computational Biology Department, School of Computer Science, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213
   - name: Barry Zorman
     email: Barry.Zorman@bcm.edu
-    affiliation: Baylor College of Medicine Houston, TX 77030
+    affiliation: Baylor College of Medicine, Houston, TX 77030
   - name: Ben Busby
     email: bbusby@dnanexus.com
     orcid: 0000-0001-5267-4988
-    affiliation: DNAnexus 1975 El Camino, Mountain View, CA
+    affiliation: DNAnexus, 1975 El Camino, Mountain View, CA
 
 date: 7 June 2021
 bibliography: paper.bib

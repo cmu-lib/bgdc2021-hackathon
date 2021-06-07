@@ -15,7 +15,7 @@ author:
   - name: Ahmad Al Khleifat 
     email: Ahmad.al_khleifat@kcl.ac.uk	
     orcid: 0000-0002-7406-9831
-    affiliation: Institute of Psychiatry, Psychology & Neuroscience, King's College London. Maurice Wohl Clinical Neuroscience Institute 5 Cutcombe Road, Denmark     Hill, London, SE5 9RX 
+    affiliation: Institute of Psychiatry, Psychology & Neuroscience, King's College London. Maurice Wohl Clinical Neuroscience Institute 5 Cutcombe Road, Denmark Hill, London, SE5 9RX 
   - name: Jenny Leopoldina Smith
     email: jlsmith3@fredhutch.org
     orcid: 0000-0003-0402-2779

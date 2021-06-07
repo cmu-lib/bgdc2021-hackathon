@@ -136,7 +136,7 @@ pasting above link (or yours) in
 
 # Abstract
 
-With the increasing availability of next-generation sequencing (NGS), patients and non-specialists health care professionals are obtaining their genomic information without sufficient bioinformatics skills to analyze and interpret the data. In January 2021, four teams of scientists, clinicians, and developers from around the world worked collaboratively in a virtual hackathon to create a framework for the automated analysis and interpretation of RNA sequencing data in the clinic. Here, we present SnpReportR: A Tool for Clinical Reporting of RNAseq Expression and Variants aimed for use by clinicians and others without in-depth knowledge of genetics.
+With the increasing availability of next-generation sequencing (NGS), patients and non-specialist health care professionals are obtaining their genomic information without sufficient bioinformatics skills to analyze and interpret the data. In January 2021, four teams of scientists, clinicians, and developers from around the world worked collaboratively in a virtual hackathon to create a framework for the automated analysis and interpretation of RNA sequencing data in the clinic. Here, we present SnpReportR: A Tool for Clinical Reporting of RNAseq Expression and Variants aimed for use by clinicians and others without in-depth knowledge of genetics.
 
 
 # Introduction

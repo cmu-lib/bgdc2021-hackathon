@@ -109,14 +109,9 @@ bibliography: paper.bib
 
 <!--
 
-The manuscript.md, bibtex and figure file can be found in this repo:
+The manuscript.md, bibtex and figure file can be found in this repo: https://github.com/collaborativebioinformatics/snpReportR
 
-  https://github.com/collaborativebioinformatics/snpReportR
-
-To modify, please clone the repo. You can generate PDF of the paper by
-pasting above link (or yours) in
-
-  http://biohackrxiv.genenetwork.org/
+To modify, please clone the repo. You can generate PDF of the paper by pasting above link (or yours) in http://biohackrxiv.genenetwork.org/
 
 -->
 

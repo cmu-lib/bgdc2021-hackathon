@@ -11,7 +11,7 @@ tags:
   - Variants
   - Genetic test reports
 
-author:
+authors:
   - name: Ahmad Al Khleifat
     email: Ahmad.al_khleifat@kcl.ac.uk
     orcid: 0000-0002-7406-9831

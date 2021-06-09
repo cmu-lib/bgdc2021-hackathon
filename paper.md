@@ -15,93 +15,132 @@ author:
   - name: Ahmad Al Khleifat
     email: Ahmad.al_khleifat@kcl.ac.uk
     orcid: 0000-0002-7406-9831
-    affiliation: Institute of Psychiatry, Psychology & Neuroscience, King's College London. Maurice Wohl Clinical Neuroscience Institute, 5 Cutcombe Road, Denmark Hill, London, SE5 9RX 
+    affiliation: 1
   - name: Jenny Leopoldina Smith
     email: jlsmith3@fredhutch.org
     orcid: 0000-0003-0402-2779
-    affiliation: Clinical Research Division, Fred Hutchinson Cancer Research Center, 1100 Fairview, Ave., Seattle, WA, 98109
+    affiliation: 2
   - name: Brandon M. Blobner
     email: bmb83@pitt.edu
     orcid: 0000-0003-0734-1492
-    affiliation: Division of Gastroenterology, Hepatology and Nutrition, Department of Medicine, University of Pittsburgh, 4200 Fifth Avenue, Pittsburgh, PA 15260
+    affiliation: 3
   - name: Sierra D. Miller
     email: sierra.miller@nist.gov
     orcid: 000-0002-3200-428X
-    affiliation: National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899-8970
+    affiliation: 4
   - name: Kymberleigh Pagel
     email: kpagel1@jhu.edu 
     orcid: 0000-0001-8544-925
-    affiliation: Institute for Computational Medicine, Johns Hopkins University, 220 Hackerman Hall, 3400 N. Charles St. Baltimore, MD  21218
+    affiliation: 5
   - name: Annie Nadkarni
     email: anadkarn@andrew.cmu.edu
-    affiliation: Carnegie Mellon University, School of Computer Science, 5000 Forbes Ave, Pittsburgh, PA 15213
+    affiliation: 6
   - name: Melanie Gainey
     email: mgainey@andrew.cmu.edu
     orcid: 0000-0002-4782-9647
-    affiliation: Carnegie Mellon University Libraries, 4909 Frew Street, Pittsburgh, PA, 15213
+    affiliation: 7
   - name: Patrick Campbell
     email: pcampbe2@andrew.cmu.edu
-    affiliation: Carnegie Mellon University Libraries, 4909 Frew Street, Pittsburgh, PA, 15213
+    affiliation: 7
   - name: Olaitan I. Awe
     email: laitanawe@gmail.com 
     orcid: 0000-0002-4257-3611
-    affiliation: University of Ibadan
+    affiliation: 8
   - name: Manuel Belmadani
     email: manuel.belmadani@pm.me
     orcid: 0000-0002-5820-5979
   - name: Alan M. Cleary
     email: acleary@ncgr.org
     orcid: 0000-0002-6567-5346
-    affiliation: National Center for Genome Resources, 2935 Rodeo Park Dr E, Santa Fe, NM 87505
+    affiliation: 9
   - name: Nicholas P. Cooley
     email: npc19@pitt.edu
     orcid: 0000-0002-6029-304X
-    affiliation: Department of Biomedical Informatics, University of Pittsburgh
+    affiliation: 10
   - name: Shamika Dhuri
     email: dhurishamika@gmail.com 
     orcid: 0000-0003-3931-5694
-    affiliation: Carnegie Mellon University, Mellon College of Science, 5000 Forbes Ave, Pittsburgh, PA 15213
+    affiliation: 11
   - name: Virginie Grosboillot
     email: virginie.grosboillot@hest.ethz.ch
     orcid: 0000-0002-8249-7182
-    affiliation: Laboratory of Food Microbiology, Institute for Food, Nutrition and Health, ETH Zurich, Zurich, Switzerland 
+    affiliation: 12
   - name: Brian Haas
     email: bhaas@broadinstitute.org
-    affiliation: Broad Institute 415 Main Street, Cambridge, MA 02142 
+    affiliation: 13
   - name: Samuel Hokin
     email: shokin@ncgr.org
     orcid: 0000-0002-9746-2783
-    affiliation: National Center for Genome Resources, 2935 Rodeo Park Dr E, Santa Fe, NM 87505
+    affiliation: 9
   - name: Ekaterina Orlova
     email: eko8@pitt.edu	
     orcid: 0000-0002-7129-5796
-    affiliation: Department of Human Genetics, Graduate School of Public Health, University of Pittsburgh, 130 De Soto Street, Pittsburgh, PA, 15261
+    affiliation: 14
   - name: Meghana Pagadala
     email: mpagadal@ucsd.edu
     orcid: 0000-0002-7591-6035
-    affiliation: University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093
+    affiliation: 15
   - name: Stephen Price
     email: sprice1@andrew.cmu.edu
     orcid: 0000-0001-9072-7518
-    affiliation: Carnegie Mellon University, 5000 Main Street, Pittsburgh, PA 15213
+    affiliation: 16
   - name: Adelaide Rhodes
     email: adelaide.rhodes@nih.gov
     orcid: 0000-0002-1714-1972
-    affiliation: National Center for Biotechnology Information, National Library of Medicine, 8600 Rockville Pike, Bethesda, MD 20894
+    affiliation: 17
   - name: Janice Kyla Nascimento Smith
     email: janice.k.n.smith@gmail.com 
-    affiliation: Software Engineer, Boston, MA, 02109
   - name: Chaitanya Srinivasan
     email: csriniv1@andrew.cmu.edu 
     orcid: 0000-0002-1487-541X
-    affiliation: Computational Biology Department, School of Computer Science, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213
+    affiliation: 6
   - name: Barry Zorman
     email: Barry.Zorman@bcm.edu
-    affiliation: Baylor College of Medicine, Houston, TX 77030
+    affiliation: 18
   - name: Ben Busby
     email: bbusby@dnanexus.com
     orcid: 0000-0001-5267-4988
-    affiliation: DNAnexus, 1975 El Camino, Mountain View, CA
+    affiliation: 19
+
+affiliations:
+  - name: Institute of Psychiatry, Psychology & Neuroscience, King's College London. Maurice Wohl Clinical Neuroscience Institute, 5 Cutcombe Road, Denmark Hill, London, SE5 9RX 
+    index: 1
+  - name: Clinical Research Division, Fred Hutchinson Cancer Research Center, 1100 Fairview, Ave., Seattle, WA, 98109
+    index: 2
+  - name: Division of Gastroenterology, Hepatology and Nutrition, Department of Medicine, University of Pittsburgh, 4200 Fifth Avenue, Pittsburgh, PA 15260
+    index: 3
+  - name: National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899-8970
+    index: 4
+  - name: Institute for Computational Medicine, Johns Hopkins University, 220 Hackerman Hall, 3400 N. Charles St. Baltimore, MD  21218
+    index: 5
+  - name: Carnegie Mellon University, School of Computer Science, 5000 Forbes Ave, Pittsburgh, PA 15213
+    index: 6
+  - name: Carnegie Mellon University Libraries, 4909 Frew Street, Pittsburgh, PA, 15213
+    index: 7
+  - name: University of Ibadan
+    index: 8
+  - name: National Center for Genome Resources, 2935 Rodeo Park Dr E, Santa Fe, NM 87505
+    index: 9
+  - name: Department of Biomedical Informatics, University of Pittsburgh
+    index: 10
+  - name: Carnegie Mellon University, Mellon College of Science, 5000 Forbes Ave, Pittsburgh, PA 15213
+    index: 11
+  - name: Laboratory of Food Microbiology, Institute for Food, Nutrition and Health, ETH Zurich, Zurich, Switzerland 
+    index: 12
+  - name: Broad Institute 415 Main Street, Cambridge, MA 02142 
+    index: 13
+  - name: Department of Human Genetics, Graduate School of Public Health, University of Pittsburgh, 130 De Soto Street, Pittsburgh, PA, 15261
+    index: 14
+  - name: University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093
+    index: 15
+  - name: Carnegie Mellon University, 5000 Main Street, Pittsburgh, PA 15213
+    index: 16
+  - name: National Center for Biotechnology Information, National Library of Medicine, 8600 Rockville Pike, Bethesda, MD 20894
+    index: 17
+  - name: Baylor College of Medicine, Houston, TX 77030
+    index: 18
+  - name: DNAnexus, 1975 El Camino, Mountain View, CA
+    index: 19
 
 date: 7 June 2021
 bibliography: paper.bib

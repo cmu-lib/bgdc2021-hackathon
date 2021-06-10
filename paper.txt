@@ -61,3 +61,7 @@ Watanabe, K., Taskesen, E., van Bochoven, A., and Posthuma, D. (2017). Functiona
 Yoshihara, K., Shahmoradgoli, M., Martínez, E., Vegesna, R., Kim, H., Torres-Garcia, W., Treviño, V., Shen, H., Laird, P.W., Levine, D.A., et al. (2013). Inferring tumour purity and stromal and immune cell admixture from expression data. Nat. Commun. 4, 2612.
 
 Zhang, J., Liu, J., Lee, D., Feng, J.-J., Lochovsky, L., Lou, S., Rutenberg-Schoenberg, M., and Gerstein, M. (2020). RADAR: annotation and prioritization of variants in the post-transcriptional regulome of RNA-binding proteins. Genome Biol. 21, 151.
+
+Fan, M., Xia, P., Clarke, R. et al. Radiogenomic signatures reveal multiscale intratumour heterogeneity associated with biological functions and survival in breast cancer. Nat Commun 11, 4861 (2020). https://doi.org/10.1038/s41467-020-18703-2
+
+Haas, B.J., Dobin, A., Li, B. et al. Accuracy assessment of fusion transcript detection via read-mapping and de novo fusion transcript assembly-based methods. Genome Biol 20, 213 (2019). https://doi.org/10.1186/s13059-019-1842-9

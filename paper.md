@@ -314,7 +314,7 @@ SnpReportR allows researchers to perform integrated analysis of NGS data by iden
 # Software availability
 
 1. Expressed Variant Impact - Source code available at [https://github.com/collaborativebioinformatics/expressed-variant-impact]( https://github.com/collaborativebioinformatics/expressed-variant-impact)
-2. SnpReportR - Source code available at  [https://github.com/collaborativebioinformatics/expressed-variant-reporting] (https://github.com/collaborativebioinformatics/expressed-variant-reporting)
+2. SnpReportR - Source code available at  [https://github.com/collaborativebioinformatics/expressed-variant-reporting](https://github.com/collaborativebioinformatics/expressed-variant-reporting)
 3. DSVifier - Source code available at [https://github.com/collaborativebioinformatics/DSVifier]( https://github.com/collaborativebioinformatics/DSVifier)
 4. Differential Expression and Variant Association - Source code available at [https://github.com/collaborativebioinformatics/Differential_Expression_and_Variant_Association]( https://github.com/collaborativebioinformatics/Differential_Expression_and_Variant_Association)
 

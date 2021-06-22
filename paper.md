@@ -213,7 +213,7 @@ To incorporate differential expression results in the clinical report, a subset 
 Table 2. Reduced dataset for differential expression testing.
 
 | Run | BioProject | Cell Line | Sample Name | Drug | Concentration ($\mu$M) |
-| -------- | -------- | -------- | -------- | -------- | -------- |
+| --- | --- | --- | ---------------- | ---------------- | --- |
 | DRR131576 | DRR131576 | A549 | RNA-seq_A549_24h_B07_Etoposide (Inhibitor_Topo II)\_1 | Etoposide (Inhibitor_Topo II) | 1.0 |
 | DRR131588 | PRJDB6952 | A549 | RNA-seq_A549_24h_C07_Etoposide (Inhibitor_Topo II)\_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
 | DRR131599 | PRJDB6952 | A549 | RNA-seq_A549_24h_D07_Etoposide (Inhibitor_Topo II)\_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |
@@ -221,15 +221,14 @@ Table 2. Reduced dataset for differential expression testing.
 | DRR132321 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_C07_Etoposide (Inhibitor_Topo II)\_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
 | DRR132333 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_D07_Etoposide (Inhibitor_Topo II)\_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |
 
-#### Gene and loci identification
+*Gene and loci identification*
 
 The DSVifier pipeline is comprised of two tracks that are processed in parallel with the existing bioinformatics tools Somalier [@pedersen2020] and CAVIAR [@hormozdiari2014] and is designed to identify the variants correlating with a particular disease. Somalier requires a single merged VCF input file, and produces TSV and HTML file outputsthat describe aspects of the input variants, such as their relatedness and ancestry.  Somalier extracts informative sites, evaluates relatedness, and performs quality-control. CAVIAR requires two additional input tab-delimited input files; specifically, Z-file containing GWAS Z-score summary statistics and an LD-file describing the pairwise correlation between pairs of SNPs in the input VCFs. The LD-file can be generated using PLINK [@plink, @purcell2007], and should include dbSNP rsIDs in the first column and their scores in the second column. The LD-file should be a square matrix representing the pairwise comparison of the SNPs in the same order they appear in the Z-file. There are three output files: (1) causal SNPs in the GWAS that provided the Z-scores in the Z-file, (2) the causal posterior probability for each SNP in GWAS, and (3) the colocalization posterior probability (CLPP) for each SNP.
-
 
 CAVIAR is used to leverage Bayesian statistical methods to predict the SNPs in LD that are likely causal. Indeed, neighboring SNPs have inflated statistical associations to complex traits due to linkage disequilibrium. As a result, it is difficult to discern the true causal SNPs contributing to the trait (in this case, cancer).
 We can also use eCAVIAR to integrate the expressed variant data with tissue specific eQTL data to predict the tissue specific effect of the SNPs [@hormozdiari2014]. For obtaining expression quantitative trait loci (eQTLs) data, the GTEx (genotype-tissue expression) dataset needs to have sufficient data across the tissues of interest.
 
-#### Identification of disease-correlated variants
+*Identification of disease-correlated variants*
 
 The FUMA web server [@fuma] was used to identify potential lead SNPs by controlling for LD structure [@watanabe2017]. We can overlap these SNPs with the fine-mapped SNPs outputted by CAVIAR to obtain a set of high confidence causal SNPs. Linkage disequilibrium (LD) score regression [@bulik2015] was conducted by using PLINK to identify to what extent these cancer-associated SNPs are enriched in promoter and regulatory regions of the genome specific to particular cell types and tissues. This can uncover which cell types can be potentially targeted for therapies.
 

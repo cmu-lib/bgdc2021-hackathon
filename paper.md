@@ -143,7 +143,7 @@ affiliations:
 date: 7 June 2021
 bibliography: paper.bib
 event: Fukuoka2019
-biohackathon_name: "Bringing Genomics Data to the Clinic!”
+biohackathon_name: "Bringing Genomics Data to the Clinic!"
 biohackathon_url: "https://www.library.cmu.edu/about/publications/news/hackathon-bringing-genomic-data-clinic"
 biohackathon_location: "Carnegie Mellon University Libraries, 2020 (virtual)"
 group: Logic programming group

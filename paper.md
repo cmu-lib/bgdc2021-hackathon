@@ -213,7 +213,7 @@ To incorporate differential expression results in the clinical report, a subset 
 Table 2. Reduced dataset for differential expression testing.
 
 | Run | BioProject | Cell Line | Sample Name | Drug | Concentration ($\mu$M) |
-| ------- | ------- | --- | ----------- | --------- | --- |
+| ------ | ------ | --- | ----------- | ---------- | --- |
 | DRR131576 | DRR131576 | A549 | RNA-seq_A549_24h_B07_ <br /> Etoposide (Inhibitor_ <br /> Topo II)\_1 | Etoposide (Inhibitor_Topo II) | 1.0 |
 | DRR131588 | PRJDB6952 | A549 | RNA-seq_A549_24h_C07_ <br /> Etoposide (Inhibitor_ <br /> Topo II)\_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
 | DRR131599 | PRJDB6952 | A549 | RNA-seq_A549_24h_D07_ <br /> Etoposide (Inhibitor_ <br /> Topo II)\_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |

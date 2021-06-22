@@ -146,7 +146,6 @@ event: Fukuoka2019
 biohackathon_name: "Bringing Genomics Data to the Clinic!"
 biohackathon_url: "https://www.library.cmu.edu/about/publications/news/hackathon-bringing-genomic-data-clinic"
 biohackathon_location: "Carnegie Mellon University Libraries, 2020 (virtual)"
-group: Logic programming group
 authors_short: Chris Mungall & Hirokazu Chiba \emph{et al.}
 authors_short: Ahmad Al Khleifat & Jenny Leopoldina Smith \emph{et al.}
 ---
@@ -341,6 +340,6 @@ Brandon Michael Blobner is supported by NIH grant 5T32DK063922-18.
 
 # Acknowledgements
 
-We would like to thank the OpenCravatGroup at Johns Hopkins University, Carnegie Mellon University Libraries, and DNAnexus Inc. for helping with organizing and hosting this event. DNAnexus Inc. also sponsored cloud computing resources. Patrick Cambell and Hannah Gunderman of CMU Libraries provided manuscript preparation support.
+We would like to thank the OpenCravatGroup at Johns Hopkins University, Carnegie Mellon University Libraries, and DNAnexus Inc. for helping with organizing and hosting this event. DNAnexus Inc. also sponsored cloud computing resources. Hannah Gunderman of CMU Libraries provided manuscript preparation support.
 
 # References

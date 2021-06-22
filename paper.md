@@ -142,6 +142,9 @@ affiliations:
     index: 19
 date: 7 June 2021
 bibliography: paper.bib
+biohackathon_name: "Bringing Genomics Data to the Clinic!”
+biohackathon_url: "https://www.library.cmu.edu/about/publications/news/hackathon-bringing-genomic-data-clinic"
+biohackathon_location: "Carnegie Mellon University Libraries, 2020 (virtual)"
 event: Fukuoka2019
 group: Logic programming group
 authors_short: Chris Mungall & Hirokazu Chiba \emph{et al.}
@@ -217,6 +220,15 @@ Table 2. Reduced dataset for differential expression testing.
 | DRR132310 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_B07_Etoposide (Inhibitor_Topo II)_1 | Etoposide (Inhibitor_Topo II) | 1.0 |
 | DRR132321 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_C07_Etoposide (Inhibitor_Topo II)_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
 | DRR132333 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_D07_Etoposide (Inhibitor_Topo II)_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |
+
+| Run | BioProject | Cell Line | Sample Name | Drug | Concentration ($\mu$M) |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| DRR131576 | DRR131576 | A549 | RNA-seq_A549_24h_B07_Etoposide (Inhibitor_Topo II)\_1 | Etoposide (Inhibitor_Topo II) | 1.0 |
+| DRR131588 | PRJDB6952 | A549 | RNA-seq_A549_24h_C07_Etoposide (Inhibitor_Topo II)\_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
+| DRR131599 | PRJDB6952 | A549| RNA-seq_A549_24h_D07_Etoposide (Inhibitor_Topo II)\_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |
+| DRR132310 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_B07_Etoposide (Inhibitor_Topo II)\_1 | Etoposide (Inhibitor_Topo II) | 1.0 |
+| DRR132321 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_C07_Etoposide (Inhibitor_Topo II)\_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
+| DRR132333 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_D07_Etoposide (Inhibitor_Topo II)\_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |
 
 #### Gene and loci identification
 

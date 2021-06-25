@@ -252,6 +252,8 @@ In this workflow, users are expected to input a fastq file and either patient or
 
 Input data | fastq | phenotypes
 
+![figure1](https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure1.png?raw=true)
+
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121072837-b6785900-c79f-11eb-9186-495473dd9a45.png">
 </p>

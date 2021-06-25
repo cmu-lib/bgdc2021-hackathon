@@ -305,13 +305,13 @@ The report was designed to use a patient friendly language. The R package provid
 
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121074615-1bcd4980-c7a2-11eb-8473-eaafb88a5a0e.png">
+<img width="80%" height="80%" src="https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure2.png">
 </p>
 Figure 2. SNPReportR interactive report, SNVs. SnpReportR  generates detailed, accessible genetic results reports. The report includes information on SNV pathogenicity, impact, and enrichment in genes.
 
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121074630-1e2fa380-c7a2-11eb-99e9-3b765ed7676f.png">
+<img width="80%" height="80%" src="https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure3.png">
 </p>
 Figure 3. SnpReportR  interactive report, tissue expression. SnpReportR  reports contain detailed information on tissue expression of genes of interest. The figure is supported by plotly R package, which allows a user to hover over the bar plots and receive additional information about the tissue expression.
 
@@ -319,13 +319,16 @@ Figure 3. SnpReportR  interactive report, tissue expression. SnpReportR  reports
 ### Genetic researchers
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121075788-9a76b680-c7a3-11eb-85f2-a455c2c0fef6.png">
+<img width="80%" height="80%" src="https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure4.png">
+</p>
+<p align="center">
+<img width="80%" height="80%" src="https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure5.png">
 </p>
 Figure 4. SnpReportR  interactive report, expressed variants. (A) SnpReportR  reports include the location of SNVs in the gene body data for expressed variants, as well as location of the SNV in the gene transcripts and chromosome using Gviz. (B) Expression of the gene variants is displayed as a box plot between two conditions in the DE analysis. The DE gene lists are in the second tab “DE genes by condition” and can be searched, filtered, and sorted.
 
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121076026-e75a8d00-c7a3-11eb-81c7-b15075817271.png">
+<img width="80%" height="80%" src="https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure6.png">
 </p>
 Figure 5. SnpReportR  interactive report, publications. SnpReportR  reports include recent publications in which genes of interest are mentioned.
 

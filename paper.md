@@ -252,10 +252,8 @@ In this workflow, users are expected to input a fastq file and either patient or
 
 Input data | fastq | phenotypes
 
-![figure1](https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure1.png?raw=true)
-
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121072837-b6785900-c79f-11eb-9186-495473dd9a45.png">
+<img width="80%" height="80%" src="https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure1.png">
 </p>
 Figure 1. SnpReportR Pipeline. (0) The pipeline begins with .fastq file inputs. (1) SnpReportR accepts an annotated .vcf file as an input in R. (2) SnpReportR mines data on genes of interest from HumanMine. (3) Annotated data from input .vcf files and data scraped from HumanMine are used to generate detailed clinical reports.
 

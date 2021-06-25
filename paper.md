@@ -262,9 +262,11 @@ Inline-style:
 ![alt text](https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure1.png "Figure 1")
 
 Reference-style: 
-![alt text][logo]
+![alt text][figure1]
 
-[logo]: https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure1.png "Figure 2"
+[figure1]: https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure1.png "Figure 1"
+
+# END TEST
 
 *Visualization in an Interactive Report*
 

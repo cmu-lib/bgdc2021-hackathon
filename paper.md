@@ -145,7 +145,7 @@ bibliography: paper.bib
 event: Fukuoka2019
 biohackathon_name: "Bringing Genomics Data to the Clinic!"
 biohackathon_url: "https://www.library.cmu.edu/about/publications/news/hackathon-bringing-genomic-data-clinic"
-biohackathon_location: "Carnegie Mellon University Libraries, 2020 (virtual)"
+biohackathon_location: "Carnegie Mellon University Libraries, 2021 (virtual)"
 group: Logic programming group
 authors_short: Chris Mungall & Hirokazu Chiba \emph{et al.}
 authors_short: Ahmad Al Khleifat & Jenny Leopoldina Smith \emph{et al.}
@@ -213,6 +213,7 @@ To identify variants, the [CTAT Mutations pipeline](https://github.com/NCIP/ctat
 
 To incorporate differential expression results in the clinical report, a subset of the Suzuki et al. (2019, ENA accession: PRJDB695) test data (Table 2) were used. The differential expression testing was performed to obtain results and formatting information only and was not evaluated for biological impact. All analyses were performed in [Galaxy](usegalaxy.org) for ease of use. Raw RNA-Seq reads were aligned to GRCh38 using HISAT2 (v.2.1.0) [@kim2019], normalized counts were estimated using featureCounts (v.1.6.4) [@liao2014], and differential expression testing was performed using edgeR (v.3.24.1) [@robinson2010].
 
+<div style="page-break-after: always;"></div>
 
 Table 2. Reduced dataset for differential expression testing.
 
@@ -297,7 +298,7 @@ Table 3: Description of annotations provided by snpReportR output.
 | Gene variant visualizations | Plots of the genomic location of each variant and the frequency variant types, including missense, synonymous, and non-coding regions |
 
 
-### 1- Patients, non-specialist clinicians
+### Patients, non-specialist clinicians
 The report was designed to use a patient friendly language. The R package provides opportunities to customize the header and include a user’s institution or logo.
 
 
@@ -313,7 +314,7 @@ Figure 2. SNPReportR interactive report, SNVs. SnpReportR  generates detailed, a
 Figure 3. SnpReportR  interactive report, tissue expression. SnpReportR  reports contain detailed information on tissue expression of genes of interest. The figure is supported by plotly R package, which allows a user to hover over the bar plots and receive additional information about the tissue expression.
 
 
-### 2- Genetic researchers
+### Genetic researchers
 
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121075788-9a76b680-c7a3-11eb-85f2-a455c2c0fef6.png">

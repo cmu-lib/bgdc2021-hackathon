@@ -213,7 +213,9 @@ To identify variants, the [CTAT Mutations pipeline](https://github.com/NCIP/ctat
 
 To incorporate differential expression results in the clinical report, a subset of the Suzuki et al. (2019, ENA accession: PRJDB695) test data (Table 2) were used. The differential expression testing was performed to obtain results and formatting information only and was not evaluated for biological impact. All analyses were performed in [Galaxy](usegalaxy.org) for ease of use. Raw RNA-Seq reads were aligned to GRCh38 using HISAT2 (v.2.1.0) [@kim2019], normalized counts were estimated using featureCounts (v.1.6.4) [@liao2014], and differential expression testing was performed using edgeR (v.3.24.1) [@robinson2010].
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 Table 2. Reduced dataset for differential expression testing.
 

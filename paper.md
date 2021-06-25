@@ -300,7 +300,8 @@ Table 3: Description of annotations provided by snpReportR output.
 | Gene variant visualizations | Plots of the genomic location of each variant and the frequency variant types, including missense, synonymous, and non-coding regions |
 
 
-1. Patients, non-specialist clinicians
+*1. Patients, non-specialist clinicians*
+
 The report was designed to use patient-friendly language. The R package provides opportunities to customize the header and include a user’s institution or logo.
 
 
@@ -316,7 +317,7 @@ Figure 2. SNPReportR interactive report, SNVs. SnpReportR  generates detailed, a
 Figure 3. SnpReportR  interactive report, tissue expression. SnpReportR  reports contain detailed information on tissue expression of genes of interest. The figure is supported by plotly R package, which allows a user to hover over the bar plots and receive additional information about the tissue expression.
 
 
-2. Genetic researchers
+*2. Genetic researchers*
 
 <p align="center">
 <img width="80%" height="80%" src="https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure4.png">

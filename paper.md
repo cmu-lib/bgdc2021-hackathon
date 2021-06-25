@@ -285,7 +285,7 @@ SnpReportR utilises multiple databases and links variants to genes and annotates
 
 ## Report generation
 
-Finally, a user-friendly customisable report is generated. SnpReportR provides a detailed HTML output that describes variants within an inputted VCF file, shown in Figure 1. SnpReportR  creates two separate reports, the first is aimed at patients and non-specialist clinicians, and the second report provides more in-depth information for genetic researchers. The HTML report is generated using a VCF file for the CTAT Mutations pipeline and includes annotations on the genes identified to be most likely to be disease causing. That is, variant detection from RNAseq provides numerous snvs and small indels, but most are not associated with pathogenic potential. The VCF filtering completed during the report generation identifies only those genes with pathogenic potential and with moderate to high impact on the genes’ protein product (eg. frameshift or early termination). The most likely pathogenic candidates are then further annotated for the information included in Table 3.
+Finally, a user-friendly customizable report is generated. SnpReportR provides a detailed HTML output that describes variants within an inputted VCF file, shown in Figure 1. SnpReportR  creates two separate reports, the first is aimed at patients and non-specialist clinicians, and the second report provides more in-depth information for genetic researchers. The HTML report is generated using a VCF file for the CTAT Mutations pipeline and includes annotations on the genes identified to be most likely to be disease causing. That is, variant detection from RNAseq provides numerous snvs and small indels, but most are not associated with pathogenic potential. The VCF filtering completed during the report generation identifies only those genes with pathogenic potential and with moderate to high impact on the genes’ protein product (e.g., frameshift or early termination). The most likely pathogenic candidates are then further annotated for the information included in Table 3.
 
 
 In the gene level summary of the most pathogenic variants identified, each column in the dynamic table can be sorted and searched dynamically, and all data used by the app is available for download in tab-delimited files. By default, allele frequency is reported based on dbVar and gnomAD genomes and exomes. SnpReportR  utilises multiple databases and links variants to genes and annotates gene impact, allele frequency, and the overlap with clinically-relevant variants. In addition, the report includes extensive variant annotation from OpenCRAVAT including known and predicted RNA-editing sites, repeat family from UCSC Genome Browser, homopolymer adjacency, entropy around the variant, splice adjacency, FATHMM pathogenicity prediction, and COSMIC annotation.
@@ -300,8 +300,8 @@ Table 3: Description of annotations provided by snpReportR output.
 | Gene variant visualizations | Plots of the genomic location of each variant and the frequency variant types, including missense, synonymous, and non-coding regions |
 
 
-### Patients, non-specialist clinicians
-The report was designed to use a patient friendly language. The R package provides opportunities to customize the header and include a user’s institution or logo.
+1. Patients, non-specialist clinicians
+The report was designed to use patient-friendly language. The R package provides opportunities to customize the header and include a user’s institution or logo.
 
 
 <p align="center">
@@ -316,7 +316,7 @@ Figure 2. SNPReportR interactive report, SNVs. SnpReportR  generates detailed, a
 Figure 3. SnpReportR  interactive report, tissue expression. SnpReportR  reports contain detailed information on tissue expression of genes of interest. The figure is supported by plotly R package, which allows a user to hover over the bar plots and receive additional information about the tissue expression.
 
 
-### Genetic researchers
+2. Genetic researchers
 
 <p align="center">
 <img width="80%" height="80%" src="https://github.com/cmu-lib/bgdc2021-hackathon/blob/main/images/figure4.png">

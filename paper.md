@@ -147,6 +147,7 @@ biohackathon_name: "Bringing Genomics Data to the Clinic!"
 biohackathon_url: "https://www.library.cmu.edu/about/publications/news/hackathon-bringing-genomic-data-clinic"
 biohackathon_location: "Carnegie Mellon University Libraries, 2021 (virtual)"
 group: Collaborative Biohackathon
+url: https://raw.githubusercontent.com/cmu-lib/bgdc2021-hackathon/paper.md
 authors_short: Ahmad Al Khleifat & Jenny Leopoldina Smith \emph{et al.}
 authors_short: Ahmad Al Khleifat & Jenny Leopoldina Smith \emph{et al.}
 ---

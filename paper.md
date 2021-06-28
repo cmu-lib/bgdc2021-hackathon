@@ -253,9 +253,7 @@ In this workflow, users are expected to input a fastq file and either patient or
 
 Input data | fastq | phenotypes
 
-![Figure 1. Figure 1. SnpReportR Pipeline. (0) The pipeline begins with .fastq file inputs. (1) SnpReportR accepts an annotated .vcf file as an input in R. (2) SnpReportR mines data on genes of interest from HumanMine. (3) Annotated data from input .vcf files and data scraped from HumanMine are used to generate detailed clinical reports.](./images/figure1.png)
-
-Figure 1. SnpReportR Pipeline. (0) The pipeline begins with .fastq file inputs. (1) SnpReportR accepts an annotated .vcf file as an input in R. (2) SnpReportR mines data on genes of interest from HumanMine. (3) Annotated data from input .vcf files and data scraped from HumanMine are used to generate detailed clinical reports.
+![SnpReportR Pipeline. (0) The pipeline begins with .fastq file inputs. (1) SnpReportR accepts an annotated .vcf file as an input in R. (2) SnpReportR mines data on genes of interest from HumanMine. (3) Annotated data from input .vcf files and data scraped from HumanMine are used to generate detailed clinical reports.](./images/figure1.png)
 
 
 *Visualization in an Interactive Report*

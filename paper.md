@@ -311,9 +311,9 @@ The report was designed to use patient-friendly language. The R package provides
 
 *2. Genetic researchers*
 
-![SnpReportR  interactive report, expressed variants. (A) SnpReportR  reports include the location of SNVs in the gene body data for expressed variants, as well as location of the SNV in the gene transcripts and chromosome using Gviz.](./images/figure4.png)
+![SnpReportR  interactive report, expressed variants. SnpReportR  reports include the location of SNVs in the gene body data for expressed variants, as well as location of the SNV in the gene transcripts and chromosome using Gviz.](./images/figure4.png)
 
-![SnpReportR  interactive report, expressed variants. (B) Expression of the gene variants is displayed as a box plot between two conditions in the DE analysis. The DE gene lists are in the second tab “DE genes by condition” and can be searched, filtered, and sorted.](./images/figure5.png)
+![SnpReportR  interactive report, expressed variants. Expression of the gene variants is displayed as a box plot between two conditions in the DE analysis. The DE gene lists are in the second tab “DE genes by condition” and can be searched, filtered, and sorted.](./images/figure5.png)
 
 ![SnpReportR  interactive report, publications. SnpReportR  reports include recent publications in which genes of interest are mentioned.](./images/figure6.png)
 
